@@ -13,9 +13,10 @@
 
 <a href="https://www.facebook.com/mianabrarprince01">
   <img align="left" alt="Abrar's Facebook" width="22px" src="https://www.svgrepo.com/show/157810/facebook.svg" />
-</a href="https://abrar-khalid-official.web.app" >
+</a>
+<a href="https://abrar-khalid-official.web.app" >
  <img src="https://komarev.com/ghpvc/?username=amanjhurani" alt="abrarkhalidofficial" />
-
+</a>
 <br />
 
 Hi, I'm Muhammad Abrar, a React JS, React Native Developer 🚀 from Pakistan, currently with programming I'm transforming complex issues into straightforward, wonderful and instinctive arrangements.
