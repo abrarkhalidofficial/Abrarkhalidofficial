@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://github.com/abrarkhalid/abrarkhalid/blob/main/Wave.gif" height="55px" width="55px">,I'm Muhammad Abrar </h1>
+<h1 align="center">Hi,<img src="https://github.com/abrarkhalid/abrarkhalid/blob/main/Wave.gif" height="55px" width="55px">I'm Muhammad Abrar </h1>
 
 <br/>
 
