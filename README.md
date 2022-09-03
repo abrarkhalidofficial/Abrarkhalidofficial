@@ -25,7 +25,7 @@ Hi, I'm Muhammad Abrar, a React JS, React Native Developer 🚀 from Pakistan, c
 
 - 🌱 I’m currently exploring MERN Stack
 - 🧑‍💻 The tools I'm currently using are *Visual Studio Code, GitHub Desktop, Windows Terminal, Firebase, Adobe XD and Git*
-- 📫 How to reach me: Abrarprince471@gmail.com
+- 📫 How to reach me: iAbrarkhalidofficial@gmail.com
 
 *Languages and Tools:*
 
