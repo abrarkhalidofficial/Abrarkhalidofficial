@@ -43,4 +43,3 @@ Hi, I'm Muhammad Abrar, a React JS, React Native Developer 🚀 from Pakistan, c
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrarkhalid&show_icons=true&theme=radical)
