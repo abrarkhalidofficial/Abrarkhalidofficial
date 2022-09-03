@@ -19,7 +19,7 @@
 </a>
 <br />
 
-Hi, I'm Muhammad Abrar, a React JS, React Native Developer 🚀 from Pakistan, currently with programming I'm transforming complex issues into straightforward, wonderful and instinctive arrangements.
+Hi, I'm Muhammad Abrar, a React JS, React Native Developer 🚀 from Pakistan, currently with programming I'm transforming complex issues into straightforward, wonderful and instinctive arrangements..
 
 *Talking about my Personal Stuffs:*
 
