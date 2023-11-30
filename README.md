@@ -4,8 +4,8 @@
 <p align="left">
 <a href="https://twitter.com/imabrarkhalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imabrarkhalid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iabrarkhalidofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iabrarkhalidofficial" height="30" width="40" /></a>
-<a href="https://fb.com/abrarkhalidoffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrarkhalidoffical" height="30" width="40" /></a>
-<a href="https://instagram.com/abrarkhalidoffical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrarkhalidoffical" height="30" width="40" /></a>
+<a href="https://fb.com/abrarkhalidofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrarkhalidofficial" height="30" width="40" /></a>
+<a href="https://instagram.com/abrarkhalidofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrarkhalidofficial" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
