@@ -7,9 +7,11 @@
 <a href="https://fb.com/abrarkhalidofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrarkhalidofficial" height="30" width="40" /></a>
 <a href="https://instagram.com/abrarkhalidofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrarkhalidofficial" height="30" width="40" /></a>
 </p>
+
 I'm a Web Developer based in Samundri Pakistan. I enjoy turning complex problems into simple, beautiful and intuitive solutions. Working at this time for "Devscot Solutions"
 <br/>
 🦄 Skills: HTML5, CSS3, JavaScript, ReactJS, NodeJS, WordPress, Shopify, Material UI & UX. <br/>
+
 💼 Tools: Visual Studio Code, Android Studio, GitHub Desktop, Windows Terminal, Firebase, Netlify, Adobe XD and Git.
 
 <h3 align="left">Languages and Tools:</h3>
