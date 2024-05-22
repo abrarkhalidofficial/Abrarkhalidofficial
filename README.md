@@ -9,6 +9,7 @@
 </p>
 
 I'm a Web Developer based in Samundri Pakistan. I enjoy turning complex problems into simple, beautiful and intuitive solutions. Working at this time for "Devscot Solutions"
+
 <br/>
 🦄 Skills: HTML5, CSS3, JavaScript, ReactJS, NodeJS, WordPress, Shopify, Material UI & UX. <br/>
 
