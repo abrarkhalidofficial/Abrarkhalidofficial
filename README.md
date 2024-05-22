@@ -8,9 +8,8 @@
 <a href="https://instagram.com/abrarkhalidofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrarkhalidofficial" height="30" width="40" /></a>
 </p>
 I'm a Web Developer based in Samundri Pakistan. I enjoy turning complex problems into simple, beautiful and intuitive solutions. Working at this time for "Devscot Solutions"
-
-I like to build functional and user-friendly and at the same time attractive websites for you. Moreover, I add a personal touch to your product and make sure that it is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way.
-🦄 Skills: HTML5, CSS3, JavaScript, ReactJS, NodeJS, WordPress, Shopify, Material UI & UX.
+<br/>
+🦄 Skills: HTML5, CSS3, JavaScript, ReactJS, NodeJS, WordPress, Shopify, Material UI & UX. <br/>
 💼 Tools: Visual Studio Code, Android Studio, GitHub Desktop, Windows Terminal, Firebase, Netlify, Adobe XD and Git.
 
 <h3 align="left">Languages and Tools:</h3>
