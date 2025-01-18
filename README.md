@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://instagram.com/abrarkhalidofficial" target="blank"><img src="https://img.shields.io/twitter/follow/Abrarkhalid?logo=twitter&style=for-the-badge" alt="Abrarkhalidofficial" /></a> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at https://iabrar.web.app/](https://iabrar.web.app/)
 
