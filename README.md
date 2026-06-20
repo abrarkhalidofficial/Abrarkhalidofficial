@@ -13,12 +13,17 @@
 
 > *"First, solve the problem. Then, write the code."*
 
-I'm a **Frontend Developer** passionate about crafting clean, responsive, and high-performance web interfaces. I love turning ideas into pixel-perfect realities using modern web technologies.
+Hey! I'm **Abrar Khalid** — a Frontend Developer who genuinely loves what he does. I spend my days (and sometimes nights 🌙) building web experiences that feel great to use and look even better.
+
+I'm currently heading **Web & Software Development at [Devscot Solutions](https://devscot.com)**, where I get to do more than just write code — I help shape technology decisions, lead development efforts, and make sure everything we ship is scalable, user-focused, and actually moves the business forward. It's the kind of work that keeps me sharp and excited every single day.
+
+Outside of that, I'm deep into learning **Next.js** and always exploring what's next in the frontend world. Whether it's a side project, an open-source contribution, or a late-night UI experiment — I'm probably building something right now.
 
 ```javascript
 const abrar = {
   name:        "Abrar Khalid",
-  role:        "Frontend Developer",
+  role:        "Head of Web & Software Development",
+  company:     "Devscot Solutions",
   location:    "Pakistan 🇵🇰",
   learning:    ["Next.js", "TypeScript", "Tailwind CSS"],
   interests:   ["UI/UX Design", "Web Performance", "Open Source"],
@@ -26,6 +31,18 @@ const abrar = {
   contact:     "iabrarkhalidofficial",
 };
 ```
+
+---
+
+## 🏢 What I Do at Devscot Solutions
+
+At **Devscot Solutions**, I lead the Web & Software Development team with a focus on building digital products that are not just functional — but genuinely good. Here's what that looks like day to day:
+
+- 🧭 **Driving strategic technology decisions** — evaluating the right tools, frameworks, and architectures for each product we build
+- 🏗️ **Delivering scalable solutions** — writing code and guiding teams toward maintainable, production-ready systems
+- 🎯 **Aligning tech with business goals** — making sure every feature shipped actually matters and adds real value
+- 🤝 **Collaborating across teams** — working closely with designers, stakeholders, and developers to bring ideas to life
+- 📦 **Shipping user-focused digital products** — from concept to deployment, with quality at every step
 
 ---
 
