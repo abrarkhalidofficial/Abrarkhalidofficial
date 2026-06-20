@@ -14,11 +14,11 @@
 
 > *"First, solve the problem. Then, write the code."*
 
-Hey! I'm **Abrar Khalid** — a Frontend Developer who genuinely loves what he does. I spend my days (and sometimes nights) building web experiences that feel great to use and look even better.
+Hey! I'm **Abrar Khalid** - a Frontend Developer who genuinely loves what he does. I spend my days (and sometimes nights) building web experiences that feel great to use and look even better.
 
-I'm currently heading **Web & Software Development at [Devscot Solutions](https://devscot.com)**, where I do more than just write code — I help shape technology decisions, lead development efforts, and make sure everything we ship is scalable, user-focused, and actually moves the business forward. It's the kind of work that keeps me sharp and excited every single day.
+I'm currently heading **Web & Software Development at [Devscot Solutions](https://devscot.com)**, where I do more than just write code - I help shape technology decisions, lead development efforts, and make sure everything we ship is scalable, user-focused, and actually moves the business forward. It's the kind of work that keeps me sharp and excited every single day.
 
-Outside of that, I'm deep into **Next.js**, **TypeScript**, and always exploring what's next in the frontend world. Whether it's a side project, an open-source contribution, or a late-night UI experiment — I'm probably building something right now.
+Outside of that, I'm deep into **Next.js**, **TypeScript**, and always exploring what's next in the frontend world. Whether it's a side project, an open-source contribution, or a late-night UI experiment - I'm probably building something right now.
 
 ```javascript
 const abrar = {
@@ -38,7 +38,7 @@ const abrar = {
 
 ## At Devscot Solutions
 
-At **Devscot Solutions**, I lead the Web & Software Development team with a focus on building digital products that are not just functional — but genuinely good.
+At **Devscot Solutions**, I lead the Web & Software Development team with a focus on building digital products that are not just functional - but genuinely good.
 
 | Responsibility | Details |
 |---|---|
@@ -46,7 +46,7 @@ At **Devscot Solutions**, I lead the Web & Software Development team with a focu
 | **Scalable Systems** | Writing code and guiding teams toward maintainable, production-ready systems |
 | **Business Alignment** | Making sure every feature shipped adds real, measurable value |
 | **Cross-team Collaboration** | Working closely with designers, stakeholders, and developers to bring ideas to life |
-| **Product Delivery** | From concept to deployment — with quality and performance at every step |
+| **Product Delivery** | From concept to deployment - with quality and performance at every step |
 
 ---
 
@@ -137,6 +137,6 @@ At **Devscot Solutions**, I lead the Web & Software Development team with a focu
 
 **Open to collaborations, freelance projects, and new opportunities.**
 
-If you find my work useful, a star on my repos means a lot — thank you!
+If you find my work useful, a star on my repos means a lot - thank you!
 
 </div>
