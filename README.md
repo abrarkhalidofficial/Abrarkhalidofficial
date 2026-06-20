@@ -28,6 +28,7 @@ const abrar = {
   learning:    ["Next.js", "TypeScript", "Tailwind CSS"],
   interests:   ["UI/UX Design", "Web Performance", "Open Source"],
   funFact:     "I keep chocolate nearby for coding emergencies 🍫",
+  whatsapp:    "+92 306 7166114",
   contact:     "iabrarkhalidofficial",
 };
 ```
@@ -120,6 +121,7 @@ At **Devscot Solutions**, I lead the Web & Software Development team with a focu
 
 <div align="center">
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923067166114)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imabrarkhalid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrarkhalidofficial/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abrarkhalidofficial/)
