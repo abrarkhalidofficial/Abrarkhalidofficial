@@ -2,13 +2,16 @@
 
 # Hi, I'm Abrar Khalid 👋
 
-### Head of Web & Software Development · Frontend Engineer · Product Builder
+### Frontend Developer · Full-Stack JavaScript Engineer · Product Builder
 
-I design and build polished, scalable web experiences and business applications with a focus on usability, performance, and maintainable architecture.
+I design and build polished, scalable web applications, SaaS products, dashboards, ERP systems, e-commerce tools, and business platforms with a focus on usability, performance, and maintainable architecture.
 
+[![Website](https://img.shields.io/badge/Website-abrarkhalid.tech-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.abrarkhalid.tech/)
 [![Profile Views](https://komarev.com/ghpvc/?username=abrarkhalidofficial&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/abrarkhalidofficial)
 [![GitHub Followers](https://img.shields.io/github/followers/abrarkhalidofficial?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/abrarkhalidofficial?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/abrarkhalidofficial?label=Stars&style=for-the-badge&color=0e75b6)](https://github.com/abrarkhalidofficial?tab=repositories)
+
+[🌐 Visit my portfolio: **abrarkhalid.tech**](https://www.abrarkhalid.tech/)
 
 </div>
 
@@ -16,18 +19,18 @@ I design and build polished, scalable web experiences and business applications 
 
 ## About Me
 
-I'm **Abrar Khalid**, a frontend-focused software developer based in Pakistan. I currently lead Web & Software Development at [Devscot Solutions](https://devscot.com), where I work across product strategy, UI engineering, architecture, and delivery.
+I'm **Abrar Khalid**, a frontend-focused software developer and product builder based in Pakistan. I currently lead Web & Software Development at [Devscot Solutions](https://devscot.com), where I work across product strategy, UI engineering, architecture, and delivery.
 
-My work spans public experiments, client-facing websites, internal business platforms, dashboards, analytics products, e-commerce tools, logistics systems, and full-stack application prototypes.
+I build modern, responsive, and production-ready digital products using **React, Next.js, TypeScript, JavaScript, Node.js, Tailwind CSS, and modern full-stack tools**. My experience includes public websites, private client platforms, SaaS applications, analytics dashboards, ERP systems, logistics products, Shopify applications, real-estate platforms, and mobile experiences.
 
 > “First, solve the problem. Then, write the code.” — John Johnson
 
 ### What I care about
 
-- Building clear, accessible, and responsive user interfaces
+- Building clear, accessible, responsive, and conversion-focused user interfaces
 - Turning complex business workflows into simple product experiences
 - Creating scalable frontend systems with reusable components
-- Improving performance, maintainability, and developer experience
+- Improving performance, SEO, maintainability, and developer experience
 - Collaborating with designers, stakeholders, and engineering teams
 
 ---
@@ -63,6 +66,20 @@ The majority of my production work is private because it belongs to clients, com
 | [Saloon](https://github.com/abrarkhalidofficial/Saloon) | Web interface project emphasizing layout, styling, and user experience. | JavaScript |
 | [Holiday Country](https://github.com/abrarkhalidofficial/holidaycountry) | Travel and hospitality-oriented website experience. | JavaScript |
 | [Fundspot Form](https://github.com/abrarkhalidofficial/Fundspotform) | Form-focused frontend implementation. | JavaScript |
+
+---
+
+## Services & Areas of Expertise
+
+- **Frontend development:** React.js, Next.js, TypeScript, JavaScript, responsive UI, reusable component systems
+- **Full-stack web development:** Node.js, Express.js, REST APIs, authentication, database-backed applications
+- **SaaS product development:** dashboards, admin panels, multi-role workflows, analytics, and subscription-ready products
+- **Business software:** ERP, CRM, inventory, accounting, operations, and internal management systems
+- **E-commerce development:** Shopify applications, merchant dashboards, order management, and customer engagement tools
+- **Logistics software:** fleet dashboards, courier operations, package tracking, dispatch, and delivery workflows
+- **Real-estate technology:** property dashboards, land mapping, zoning, cadastral data, and Mapbox experiences
+- **UI/UX implementation:** Figma-to-code, design systems, accessibility, mobile-first layouts, and performance optimization
+- **SEO-friendly websites:** semantic HTML, responsive layouts, fast-loading pages, structured content, and technical SEO foundations
 
 ---
 
@@ -115,10 +132,17 @@ The majority of my production work is private because it belongs to clients, com
 
 ---
 
+## Search Topics
+
+`Abrar Khalid` · `Abrar Khalid developer` · `frontend developer Pakistan` · `React developer` · `Next.js developer` · `TypeScript developer` · `full-stack JavaScript developer` · `SaaS developer` · `dashboard developer` · `ERP software developer` · `Shopify app developer` · `logistics software developer` · `React UI engineer` · `web application developer` · `business software developer` · `SEO-friendly web development`
+
+---
+
 ## Connect
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-abrarkhalid.tech-0e75b6?style=flat-square&logo=googlechrome&logoColor=white)](https://www.abrarkhalid.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrarkhalidofficial/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/imabrarkhalid)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/abrarkhalidofficial/)
