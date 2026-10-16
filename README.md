@@ -32,26 +32,41 @@ My work spans public experiments, client-facing websites, internal business plat
 
 ---
 
-## Selected Public Projects
+## Project Portfolio
 
-A small selection of my publicly visible work and experiments:
+The majority of my production work is private because it belongs to clients, companies, or internal product teams. The projects below provide a representative overview of the products and systems I have designed and developed.
 
-| Project | Description | Primary Technology |
+### Selected Private Product Work
+
+| Project | Product presentation | Core technologies |
 |---|---|---|
-| [Aigronpages](https://github.com/abrarkhalidofficial/Aigronpages) | Public-facing pages and UI work for an agriculture-focused digital product | JavaScript |
-| [Frontline](https://github.com/abrarkhalidofficial/Frontline) | Frontend project focused on responsive web experiences | JavaScript |
-| [Videoplayer](https://github.com/abrarkhalidofficial/Videoplayer) | Browser-based video player interface and interaction experiment | JavaScript |
-| [Saloon](https://github.com/abrarkhalidofficial/Saloon) | Web interface project emphasizing layout, styling, and user experience | JavaScript |
-| [Holiday Country](https://github.com/abrarkhalidofficial/holidaycountry) | Travel and hospitality-oriented website experience | JavaScript |
-| [Fundspot Form](https://github.com/abrarkhalidofficial/Fundspotform) | Form-focused frontend implementation | JavaScript |
+| **Zood KPI** | Logistics fleet analytics and courier KPI dashboard for operational reporting, performance monitoring, and data-driven decision-making. | Next.js, React, TypeScript, Tailwind CSS |
+| **Zood Delivery Platform** | Courier delivery and customer package-tracking experience supporting logistics workflows from dispatch to delivery. | Next.js, React, TypeScript, Tailwind CSS |
+| **Shopify Analytics Software** | Merchant analytics product focused on Shopify data, reporting, and actionable business insights. | TypeScript, React, Shopify ecosystem |
+| **Shopify Admin** | Custom Shopify administration interface for merchant operations, order management, and store workflows. | React, TypeScript, Shopify App Bridge |
+| **Schooliee** | Multi-school management ecosystem with administrative workflows, communication features, and companion mobile experiences. | Next.js, React Native, Expo, Convex |
+| **Barry ERP** | Enterprise resource planning suite covering manufacturing, inventory, accounting, and commercial operations. | React, Vite, JavaScript, Node.js, MongoDB |
+| **Nasaq** | Enterprise operations and ERP platform designed to support structured business workflows and internal administration. | Next.js, TypeScript, Tailwind CSS |
+| **MLZ Advanced** | Geospatial land mapping and urban-planning platform with cadastral parcels, property boundaries, and interactive map experiences. | Next.js, Mapbox GL, Three.js, TypeScript |
+| **Telephony** | Cloud VoIP call-center and customer-interaction portal with real-time communication workflows. | React, WebRTC, JavaScript |
+| **Remotion Pipeline** | Programmatic video creation and automated motion-graphics rendering workflow. | React, TypeScript, Remotion |
 
-> Most of my production work is maintained in private repositories. The public projects above represent only a portion of my experience.
+> Private projects are listed for portfolio context only. Source code, live demos, and business data are not publicly available unless explicitly shared by the relevant organization.
+
+### Selected Public Projects
+
+| Project | Description | Primary technology |
+|---|---|---|
+| [Aigronpages](https://github.com/abrarkhalidofficial/Aigronpages) | Public-facing pages and UI work for an agriculture-focused digital product. | JavaScript |
+| [Frontline](https://github.com/abrarkhalidofficial/Frontline) | Frontend project focused on responsive web experiences. | JavaScript |
+| [Videoplayer](https://github.com/abrarkhalidofficial/Videoplayer) | Browser-based video player interface and interaction experiment. | JavaScript |
+| [Saloon](https://github.com/abrarkhalidofficial/Saloon) | Web interface project emphasizing layout, styling, and user experience. | JavaScript |
+| [Holiday Country](https://github.com/abrarkhalidofficial/holidaycountry) | Travel and hospitality-oriented website experience. | JavaScript |
+| [Fundspot Form](https://github.com/abrarkhalidofficial/Fundspotform) | Form-focused frontend implementation. | JavaScript |
 
 ---
 
-## Product & Engineering Experience
-
-Through private and collaborative projects, I have worked on products across several domains:
+## Product Domains
 
 - **Analytics & dashboards:** operational reporting, KPI tracking, and data-heavy interfaces
 - **Logistics & delivery:** fleet operations, courier workflows, dispatch, and package tracking
@@ -60,8 +75,6 @@ Through private and collaborative projects, I have worked on products across sev
 - **Real estate & mapping:** property portfolios, land boundaries, zoning, and geospatial interfaces
 - **Education platforms:** school management, communication workflows, and lead management
 - **Creative tooling:** programmatic video creation, media interfaces, and design-led experiences
-
-I keep private client and company repositories confidential while sharing selected public work, reusable ideas, and technical experiments here on GitHub.
 
 ---
 
@@ -99,19 +112,6 @@ I keep private client and company repositories confidential while sharing select
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## GitHub Activity
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=abrarkhalidofficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Abrar's GitHub statistics" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarkhalidofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Abrar's most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrarkhalidofficial&theme=tokyonight&hide_border=true" alt="Abrar's GitHub contribution streak" />
-</div>
 
 ---
 
