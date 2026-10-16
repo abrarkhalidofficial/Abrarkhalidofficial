@@ -1,10 +1,14 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Abrar+Khalid+%F0%9F%91%8B;Head+of+Web+%26+Software+Development;Frontend+Developer+%7C+Next.js+%7C+React;Building+Scalable+Digital+Products" alt="Typing SVG" /></a>
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=abrarkhalidofficial&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/abrarkhalidofficial?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/abrarkhalidofficial)
-[![GitHub stars](https://img.shields.io/github/stars/abrarkhalidofficial?label=Stars&style=for-the-badge&color=0e75b6)](https://github.com/abrarkhalidofficial)
+# Hi, I'm Abrar Khalid 👋
+
+### Head of Web & Software Development · Frontend Engineer · Product Builder
+
+I design and build polished, scalable web experiences and business applications with a focus on usability, performance, and maintainable architecture.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=abrarkhalidofficial&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/abrarkhalidofficial)
+[![GitHub Followers](https://img.shields.io/github/followers/abrarkhalidofficial?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/abrarkhalidofficial?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/abrarkhalidofficial?label=Stars&style=for-the-badge&color=0e75b6)](https://github.com/abrarkhalidofficial?tab=repositories)
 
 </div>
 
@@ -12,47 +16,58 @@
 
 ## About Me
 
-> *"First, solve the problem. Then, write the code."*
+I'm **Abrar Khalid**, a frontend-focused software developer based in Pakistan. I currently lead Web & Software Development at [Devscot Solutions](https://devscot.com), where I work across product strategy, UI engineering, architecture, and delivery.
 
-Hey! I'm **Abrar Khalid** - a Frontend Developer who genuinely loves what he does. I spend my days (and sometimes nights) building web experiences that feel great to use and look even better.
+My work spans public experiments, client-facing websites, internal business platforms, dashboards, analytics products, e-commerce tools, logistics systems, and full-stack application prototypes.
 
-I'm currently heading **Web & Software Development at [Devscot Solutions](https://devscot.com)**, where I do more than just write code - I help shape technology decisions, lead development efforts, and make sure everything we ship is scalable, user-focused, and actually moves the business forward. It's the kind of work that keeps me sharp and excited every single day.
+> “First, solve the problem. Then, write the code.” — John Johnson
 
-Outside of that, I'm deep into **Next.js**, **TypeScript**, and always exploring what's next in the frontend world. Whether it's a side project, an open-source contribution, or a late-night UI experiment - I'm probably building something right now.
+### What I care about
 
-```javascript
-const abrar = {
-  name:        "Abrar Khalid",
-  role:        "Head of Web & Software Development",
-  company:     "Devscot Solutions",
-  location:    "Pakistan",
-  learning:    ["Next.js", "TypeScript", "Node.js"],
-  interests:   ["UI/UX Design", "Web Performance", "Open Source"],
-  whatsapp:    "+92 306 7166114",
-  contact:     "iabrarkhalidofficial",
-  funFact:     "I keep chocolate nearby for coding emergencies",
-};
-```
+- Building clear, accessible, and responsive user interfaces
+- Turning complex business workflows into simple product experiences
+- Creating scalable frontend systems with reusable components
+- Improving performance, maintainability, and developer experience
+- Collaborating with designers, stakeholders, and engineering teams
 
 ---
 
-## At Devscot Solutions
+## Selected Public Projects
 
-At **Devscot Solutions**, I lead the Web & Software Development team with a focus on building digital products that are not just functional - but genuinely good.
+A small selection of my publicly visible work and experiments:
 
-| Responsibility | Details |
-|---|---|
-| **Strategic Technology Decisions** | Evaluating the right tools, frameworks, and architectures for every product we build |
-| **Scalable Systems** | Writing code and guiding teams toward maintainable, production-ready systems |
-| **Business Alignment** | Making sure every feature shipped adds real, measurable value |
-| **Cross-team Collaboration** | Working closely with designers, stakeholders, and developers to bring ideas to life |
-| **Product Delivery** | From concept to deployment - with quality and performance at every step |
+| Project | Description | Primary Technology |
+|---|---|---|
+| [Aigronpages](https://github.com/abrarkhalidofficial/Aigronpages) | Public-facing pages and UI work for an agriculture-focused digital product | JavaScript |
+| [Frontline](https://github.com/abrarkhalidofficial/Frontline) | Frontend project focused on responsive web experiences | JavaScript |
+| [Videoplayer](https://github.com/abrarkhalidofficial/Videoplayer) | Browser-based video player interface and interaction experiment | JavaScript |
+| [Saloon](https://github.com/abrarkhalidofficial/Saloon) | Web interface project emphasizing layout, styling, and user experience | JavaScript |
+| [Holiday Country](https://github.com/abrarkhalidofficial/holidaycountry) | Travel and hospitality-oriented website experience | JavaScript |
+| [Fundspot Form](https://github.com/abrarkhalidofficial/Fundspotform) | Form-focused frontend implementation | JavaScript |
+
+> Most of my production work is maintained in private repositories. The public projects above represent only a portion of my experience.
+
+---
+
+## Product & Engineering Experience
+
+Through private and collaborative projects, I have worked on products across several domains:
+
+- **Analytics & dashboards:** operational reporting, KPI tracking, and data-heavy interfaces
+- **Logistics & delivery:** fleet operations, courier workflows, dispatch, and package tracking
+- **ERP & business systems:** inventory, manufacturing, accounting, vendor operations, and administration
+- **E-commerce & Shopify:** merchant tools, order management, customer engagement, and analytics
+- **Real estate & mapping:** property portfolios, land boundaries, zoning, and geospatial interfaces
+- **Education platforms:** school management, communication workflows, and lead management
+- **Creative tooling:** programmatic video creation, media interfaces, and design-led experiences
+
+I keep private client and company repositories confidential while sharing selected public work, reusable ideas, and technical experiments here on GitHub.
 
 ---
 
 ## Tech Stack
 
-### Frontend
+### Frontend & Mobile
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -61,82 +76,57 @@ At **Devscot Solutions**, I lead the Web & Software Development team with a focu
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-### Styling & UI
+### UI, Styling & Design
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Handlebars](https://img.shields.io/badge/Handlebars.js-f0772b?style=flat-square&logo=handlebarsdotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### Backend
+### Backend, Data & Platforms
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0052CC?style=flat-square&logo=postman&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-### Mobile
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-
-### Tools & Platforms
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=abrarkhalidofficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarkhalidofficial&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=abrarkhalidofficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Abrar's GitHub statistics" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarkhalidofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Abrar's most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrarkhalidofficial&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrarkhalidofficial&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrarkhalidofficial&theme=tokyonight&hide_border=true" alt="Abrar's GitHub contribution streak" />
 </div>
 
 ---
 
-## Connect with Me
+## Connect
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923067166114)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrarkhalidofficial/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/imabrarkhalid)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/abrarkhalidofficial/)
 
 </div>
 
----
-
 <div align="center">
 
-**Open to collaborations, freelance projects, and new opportunities.**
-
-If you find my work useful, a star on my repos means a lot - thank you!
+**Open to thoughtful collaborations, interesting products, and meaningful engineering challenges.**
 
 </div>
