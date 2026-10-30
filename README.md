@@ -17,6 +17,7 @@ I design and build polished, scalable web applications, SaaS products, dashboard
 
 ---
 
+
 ## About Me
 
 I'm **Abrar Khalid**, a frontend-focused software developer and product builder based in Pakistan. I currently lead Web & Software Development at [Devscot Solutions](https://devscot.com), where I work across product strategy, UI engineering, architecture, and delivery.
