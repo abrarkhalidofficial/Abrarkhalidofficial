@@ -8,8 +8,6 @@ I design and build polished, scalable web applications, SaaS products, dashboard
 
 [![Website](https://img.shields.io/badge/Website-abrarkhalid.tech-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.abrarkhalid.tech/)
 [![Profile Views](https://komarev.com/ghpvc/?username=abrarkhalidofficial&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/abrarkhalidofficial)
-[![GitHub Followers](https://img.shields.io/github/followers/abrarkhalidofficial?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/abrarkhalidofficial?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/abrarkhalidofficial?label=Stars&style=for-the-badge&color=0e75b6)](https://github.com/abrarkhalidofficial?tab=repositories)
 
 [🌐 Visit my portfolio: **abrarkhalid.tech**](https://www.abrarkhalid.tech/)
 
