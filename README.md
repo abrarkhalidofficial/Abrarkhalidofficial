@@ -36,6 +36,12 @@ I build modern, responsive, and production-ready digital products using **React,
 
 I am currently focused on building dependable product interfaces, strengthening frontend architecture, and turning complex workflows into clear, efficient experiences for teams and end users.
 
+### Engineering Approach
+
+- Start with the user and business problem before choosing the implementation
+- Prefer simple, reusable components over duplicated feature-specific code
+- Treat accessibility, performance, and maintainability as part of the product
+
 ---
 
 ## Project Portfolio
