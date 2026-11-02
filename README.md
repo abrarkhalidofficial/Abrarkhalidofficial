@@ -145,6 +145,10 @@ The majority of my production work is private because it belongs to clients, com
 
 `Abrar Khalid` · `Abrar Khalid developer` · `frontend developer Pakistan` · `React developer` · `Next.js developer` · `TypeScript developer` · `full-stack JavaScript developer` · `SaaS developer` · `dashboard developer` · `ERP software developer` · `Shopify app developer` · `logistics software developer` · `React UI engineer` · `web application developer` · `business software developer` · `SEO-friendly web development`
 
+## Collaboration
+
+I work best with teams that value clear communication, thoughtful product decisions, and steady delivery. I enjoy joining projects from early discovery through implementation, refinement, and long-term improvement.
+
 ---
 
 ## Connect
