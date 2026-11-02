@@ -32,6 +32,10 @@ I build modern, responsive, and production-ready digital products using **React,
 - Improving performance, SEO, maintainability, and developer experience
 - Collaborating with designers, stakeholders, and engineering teams
 
+### Current Focus
+
+I am currently focused on building dependable product interfaces, strengthening frontend architecture, and turning complex workflows into clear, efficient experiences for teams and end users.
+
 ---
 
 ## Project Portfolio
