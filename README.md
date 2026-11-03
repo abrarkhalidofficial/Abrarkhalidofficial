@@ -42,6 +42,12 @@ I am currently focused on building dependable product interfaces, strengthening 
 - Prefer simple, reusable components over duplicated feature-specific code
 - Treat accessibility, performance, and maintainability as part of the product
 
+### Working Principles
+
+- Keep communication clear and progress visible
+- Make deliberate technical decisions that support the product
+- Improve systems continuously through feedback and iteration
+
 ---
 
 ## Project Portfolio
