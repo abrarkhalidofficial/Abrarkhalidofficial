@@ -163,6 +163,8 @@ Across projects, I prioritize responsive behavior, accessible interactions, usef
 
 I work best with teams that value clear communication, thoughtful product decisions, and steady delivery. I enjoy joining projects from early discovery through implementation, refinement, and long-term improvement.
 
+For new collaborations, a clear product goal, an agreed scope, and regular feedback create the strongest foundation for progress.
+
 ---
 
 ## Connect
