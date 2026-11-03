@@ -82,6 +82,10 @@ The majority of my production work is private because it belongs to clients, com
 | [Holiday Country](https://github.com/abrarkhalidofficial/holidaycountry) | Travel and hospitality-oriented website experience. | JavaScript |
 | [Fundspot Form](https://github.com/abrarkhalidofficial/Fundspotform) | Form-focused frontend implementation. | JavaScript |
 
+### Project Delivery
+
+I approach delivery in small, focused increments: understand the workflow, build the essential experience, validate it with real usage, and refine the result based on feedback.
+
 ---
 
 ## Services & Areas of Expertise
