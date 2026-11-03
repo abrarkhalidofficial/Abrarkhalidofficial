@@ -112,6 +112,10 @@ I approach delivery in small, focused increments: understand the workflow, build
 - **Education platforms:** school management, communication workflows, and lead management
 - **Creative tooling:** programmatic video creation, media interfaces, and design-led experiences
 
+## Quality Priorities
+
+Across projects, I prioritize responsive behavior, accessible interactions, useful feedback states, and code that remains understandable as the product grows.
+
 ---
 
 ## Tech Stack
